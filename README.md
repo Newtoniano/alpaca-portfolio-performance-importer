@@ -1,4 +1,4 @@
-This program converts a json response generated from alpaca trade executions to a csv format suitable to import to [Portfolio Performance](https://www.portfolio-performance.info/en/).
+This program converts a JSON response generated from Alpaca trade executions to a CSV format suitable for importing into [Portfolio Performance](https://www.portfolio-performance.info/en/).
 
 ## Installation instructions
 
